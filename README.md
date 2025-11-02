@@ -8,20 +8,7 @@
 
 Hello! I am a senior year student getting my degree in Graphic Information Systems with a focus on front-end web development! Right now, my GitHub is a collection of classwork that I've worked on in the past year but I hope to begin work on personal projects soon as well. I am currently enrolled in an internship!
 
-<!--
-**statuserror404/statuserror404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## My Tech Stack
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -43,10 +30,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-![Intel](https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
@@ -74,13 +58,64 @@ Here are some ideas to get you started:
 
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)
-![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
+![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)  
 
+### Other Software
+- FL Studio
+- Sony Vegas / MAGIX Vegas
+- Allusion
 
-
- 
 ## My Stats
 
 
 ![statuserror404's Stats](https://github-readme-stats.vercel.app/api?username=statuserror404&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 ![statuserror404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=statuserror404&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+
+## Computer Stats
+
+### Main Machine
+
+**Operating System:**: Windows 11 Enterprise  
+**CPU:** AMD Ryzen 7 2700X  
+**GPU:** NVIDIA GeForce RTX 3060Ti (ASUS TUF Gaming)  
+**RAM:** 64GB  
+**Motherboard:** ASUS ROG STRIX B450-F  
+**Soundcard:** Creative Labs Sound BlasterX AE-5 Plus  
+
+### Retro Project PC
+
+**Operating System:** Windows 98 Second Edition Plus! / Windows 2000 Professional (Two Drives)
+**CPU:** Intel Pentium MMX 250mHz
+**GPU:** Nvidia Geforce FX 5200
+**RAM:** 390MB
+**Motherboard:** J-Bond PCI500C-P
+**Soundcard:** Creative Labs Sound Blaster 16
+
+### Other Project PCs
+- Mac Mini (256GB)
+- Dell XPS 410 (Windows Vista)
+- Dell Dimension 2400
+- Dell Dimension 3000 (Childhood PC!)
+
+
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+![Intel](https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
