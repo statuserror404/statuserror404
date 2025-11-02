@@ -77,7 +77,9 @@ Hello! I am a senior year student getting my degree in Graphic Information Syste
 **Motherboard:** ASUS ROG STRIX B450-F  
 **Soundcard:** Creative Labs Sound BlasterX AE-5 Plus  
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  
+
+I do all of my work on this PC. I recently needed to reinstall Windows due to the last install refusing updates. This is a custom-built PC.
 
 ### Retro Project PC
 
