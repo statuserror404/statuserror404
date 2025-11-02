@@ -9,6 +9,10 @@
 
 Hello! I am a senior year student getting my degree in Graphic Information Systems with a focus on front-end web development! Right now, my GitHub is a collection of classwork that I've worked on in the past year but I hope to begin work on personal projects soon as well. I am currently enrolled in an internship!
 
+## Current Projects
+- Front-End Internship Work
+- Creative Project 2 [Photoshop]
+- Various FL Studio Projects
 
 ## My Tech Stack
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
