@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello there!
+
+## About Me
+**Age:** 24
+**Pronouns:** He/They  
+**Location:** Chicago (CST)  
+**Field Of Study:** Graphic Information Systems  
+
 
 <!--
 **statuserror404/statuserror404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Skills
+![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
+ 
 ## My Stats
 
 
