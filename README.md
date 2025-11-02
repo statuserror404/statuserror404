@@ -1,7 +1,7 @@
 ![banner](github-banner.png)
 
 ## About Me
-**Age:** 24
+**Age:** 24  
 **Pronouns:** He/They  
 **Location:** Chicago (CST)  
 **Field Of Study:** Graphic Information Systems  
