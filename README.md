@@ -112,8 +112,10 @@ Hello! I am a senior year student getting my degree in Graphic Information Syste
 - I've had an interest in creating websites for over ten years. I'd create websites through Microsoft Word on my Dell Dimension 3000 and would create assets in Microsoft Paint.
 - I've been a barista for 7 years.
 
-
-
+## Credits
+- [Readme Summary Card](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic?tab=readme-ov-file)
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [Green Light Bokeh](https://www.pexels.com/photo/green-light-bokeh-1048049/)
 
 
 
