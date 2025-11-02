@@ -1,4 +1,4 @@
-# Hello there!
+![banner](github-banner.png)
 
 ## About Me
 **Age:** 24
@@ -6,6 +6,7 @@
 **Location:** Chicago (CST)  
 **Field Of Study:** Graphic Information Systems  
 
+Hello! I am a senior year student getting my degree in Graphic Information Systems with a focus on front-end web development! Right now, my GitHub is a collection of classwork that I've worked on in the past year but I hope to begin work on personal projects soon as well. I am currently enrolled in an internship!
 
 <!--
 **statuserror404/statuserror404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
