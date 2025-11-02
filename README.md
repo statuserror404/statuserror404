@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stats
+
+
+![statuserror404's Stats](https://github-readme-stats.vercel.app/api?username=statuserror404&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![statuserror404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=statuserror404&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
