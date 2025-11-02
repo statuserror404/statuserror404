@@ -6,6 +6,7 @@
 **Location:** Chicago (CST)  
 **Field Of Study:** Graphic Information Systems  
 
+
 Hello! I am a senior year student getting my degree in Graphic Information Systems with a focus on front-end web development! Right now, my GitHub is a collection of classwork that I've worked on in the past year but I hope to begin work on personal projects soon as well. I am currently enrolled in an internship!
 
 
@@ -102,7 +103,7 @@ Hello! I am a senior year student getting my degree in Graphic Information Syste
 ## Social Links
 - [LinkedIn](https://www.linkedin.com/in/adam-sapit-2400301a7/)  
 - [Outlook Email](mailto:as.2k@outlook.com)
-
+- [Personal Website (WIP](https://asapitgis.carrd.co/) 
 
 ## Fun Facts
 - I am an amateur musician! I play a bit of drums, guitar, bass, and I'm experienced in making electronic music in FL Studio. I am really good at recreating sounds by ear. I'm very detail oriented and will spend hours trying to perfect a sound.
