@@ -7,7 +7,7 @@
 **Field Of Study:** Graphic Information Systems  
 
 
-Hello! I am a senior year student getting my degree in Graphic Information Systems with a focus on front-end web development! Right now, my GitHub is a collection of classwork that I've worked on in the past year but I hope to begin work on personal projects soon as well. I am currently enrolled in an internship!
+Hello! I am a senior year student getting my degree in Graphic Information Systems with a focus on front-end web development! Right now, my GitHub is a collection of classwork that I've worked on in the past year but I hope to begin work on personal projects soon as well. I am currently enrolled in an internship! 
 
 ## Current Projects
 - Front-End Internship Work
@@ -88,7 +88,9 @@ Hello! I am a senior year student getting my degree in Graphic Information Syste
 **Motherboard:** J-Bond PCI500C-P  
 **Soundcard:** Creative Labs Sound Blaster 16  
 ![Intel](https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  
+
+Working on this machine was a learning curve. It supposedly ran Windows 95 when I bought it, but it wouldn't boot. Through my time troubleshooting I became more familiar with MS-DOS, Windows 3.1, and troubleshooting the various software and drivers that were compatible. Eventually, I discovered that the optical media I was using was set to a burn speed that the disc drive couldn't read properly. Once that was figured out, I successfully managed to install Windows 98. This machine originally had a Cyrix MII processor and a ViRGE DX/GX GPU.
 
 ### Other Project PCs
 - Mac Mini (256GB) [M4]
@@ -110,6 +112,7 @@ Hello! I am a senior year student getting my degree in Graphic Information Syste
 - [Personal Website (WIP)](https://asapitgis.carrd.co/) 
 
 ## Fun Facts
+- I love tinkering with technology. A few months ago I repaired all of my project PCs by replacing cables, components, and reinstalling the original OS the machine came with. 
 - I am an amateur musician! I play a bit of drums, guitar, bass, and I'm experienced in making electronic music in FL Studio. I am really good at recreating sounds by ear. I'm very detail oriented and will spend hours trying to perfect a sound.
 - I collect CDs and records! I rip CDs to put on to my MP3 players.
 - I'm a big fan of rock and electronic music. My favorite band right now is Deftones, I've seen them twice this year.
